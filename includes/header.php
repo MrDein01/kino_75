@@ -8,6 +8,9 @@
   <meta name="description" content="<?= e($pageDescription ?? SITE_TAGLINE) ?>">
   <link rel="preload" href="/assets/css/style.css?v=23" as="style">
   <link rel="stylesheet" href="/assets/css/style.css?v=23">
+  <meta charset="UTF-8">
+  <title>Культура 75</title>
+  <meta name="google-site-verification" content="AbCdEfGhIjKlMnOpQrStUvWxYz1234567890" />
 </head>
 <body class="<?= e($bodyClass ?? '') ?>">
 <a class="skip-link" href="#main">К содержанию</a>
