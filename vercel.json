@@ -8,6 +8,12 @@
     { "src": "/assets/(.*)", "dest": "/assets/$1" },
     { "src": "/uploads/(.*)", "dest": "/uploads/$1" },
     { "src": "/favicon.ico", "dest": "/assets/img/placeholder.svg" },
+
+    {
+      "src": "/google5b4b8936b53f228c\\.html",
+      "dest": "/google5b4b8936b53f228c.html"
+    },
+
     { "src": "/(.*)", "dest": "/api/index.php" }
   ]
 }
