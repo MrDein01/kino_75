@@ -13,6 +13,15 @@
   <meta charset="UTF-8">
   <title>Культура 75</title>
   <meta name="google-site-verification" content="google5b4b8936b53f228c.html" />
+  <script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "name":"АНО «Культура 75»",
+  "url":"https://kultura75-site.vercel.app/",
+  "logo":"https://kultura75-site.vercel.app/assets/img/logo-ano75-icon.png"
+}
+</script>
 </head>
 <body class="<?= e($bodyClass ?? '') ?>">
 <a class="skip-link" href="#main">К содержанию</a>
