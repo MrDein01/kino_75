@@ -3,8 +3,7 @@
 <html lang="ru">
 <head>
   <meta name="google-site-verification" content="iQrKrSy3ldP2yyxffXL_saYS4Lk7u2lNNCR0T_3yHTI" />
-  <link rel="icon" href="/assets/img/favicon.ico" sizes="any">
-  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon.png">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?= e($pageTitle ?? SITE_NAME) ?></title>
