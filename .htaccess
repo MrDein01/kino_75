@@ -1,0 +1,10 @@
+Options -Indexes
+AddDefaultCharset UTF-8
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+</IfModule>
+
+<FilesMatch "\.(json|md|txt)$">
+  Header set X-Content-Type-Options "nosniff"
+</FilesMatch>
